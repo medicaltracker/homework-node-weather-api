@@ -18,6 +18,7 @@ You have total control over frameworks, tools, and libraries. Consider the Evalu
 - Fetch current weather information from a third-party weather API.
 - Write tests for the API endpoints.
 - Ensure the code is well-documented and follows best practices.
+- You do not need to worry about implementation of AuthN or AuthZ.
 
 ## Getting Started
 1. Fork this repository and complete the implementation.
