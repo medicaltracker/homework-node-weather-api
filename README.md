@@ -19,17 +19,18 @@ You have total control over frameworks, tools, and libraries. Consider the Evalu
 - Write tests for the API endpoints.
 - Ensure the code is well-documented and follows best practices.
 - You do not need to worry about implementation of AuthN or AuthZ.
+- Extra ⭐️ for going the extra mile with test coverage.
 
 ## Getting Started
 1. Fork this repository and complete the implementation.
 2. Submit a pull request with your completed project.
 
 ## Evaluation Criteria
+
 - Conformance to business requirements
 - Code quality and organization
 - Proper use of modern development practices
 - Effective error handling and validation
-- Quality and coverage of tests
 - Use of Git and commit messages
 - Documentation and clarity in the README
 
