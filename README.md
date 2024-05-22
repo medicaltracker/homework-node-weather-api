@@ -1,7 +1,7 @@
 # Weather Tracking API
 
 ## Objective
-Implement a REST API for a weather tracking system with data persistence and integration with a third-party weather API.
+Implement a NodeJA REST API for a weather tracking system with data persistence and integration with a third-party weather API.
 
 You have total control over frameworks, tools, and libraries. Consider the Evaluation Criteria, but also try to have fun — this isn't a test of the _right_ or _wrong_ approach; it's about getting an understanding of _your_ individual approach.
 
