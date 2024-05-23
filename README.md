@@ -14,7 +14,7 @@ You have total control over frameworks, tools, and libraries. Consider the Evalu
   - `PUT /cities/:id`: Update details of a specific city by ID.
   - `DELETE /cities/:id`: Delete a city by ID.
   - `GET /cities/:id/weather`: Retrieve the current weather for a specific city by ID using a third-party weather API.
-- Persist city data using a datastore of your choice.
+- Persist city data using a datastore of your choice (can be in memory, or file-based if you like).
 - Fetch current weather information from a third-party weather API.
 - Write tests for the API endpoints.
 - Ensure the code is well-documented and follows best practices.
