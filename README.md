@@ -35,3 +35,12 @@ You have total control over frameworks, tools, and libraries. Consider the Evalu
 - Documentation and clarity in the README
 
 🚀 Happy coding!
+
+## Instructions
+
+- CD to /server
+- run npm install
+- run npm start to initialise the server
+- npm test to run the test suite
+- An initial city has been added using the ID 2641170
+
