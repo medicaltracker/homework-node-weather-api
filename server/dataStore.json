@@ -1,0 +1,50 @@
+{
+  "cities": {
+    "2641170": {
+      "coord": {
+        "lon": -1.1505,
+        "lat": 52.9536
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 286.39,
+        "feels_like": 285.75,
+        "temp_min": 285.22,
+        "temp_max": 287.06,
+        "pressure": 1018,
+        "humidity": 76,
+        "sea_level": 1018,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.8,
+        "deg": 218,
+        "gust": 3.13
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1716544321,
+      "sys": {
+        "type": 2,
+        "id": 2093695,
+        "country": "GB",
+        "sunrise": 1716522812,
+        "sunset": 1716581384
+      },
+      "timezone": 3600,
+      "id": 2641170,
+      "name": "Nottingham",
+      "cod": 200
+    }
+  }
+}
